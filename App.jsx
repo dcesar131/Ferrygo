@@ -6,11 +6,11 @@ const MAPBOX_TOKEN = "pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ
 
 // ─── PAYPAL CONFIG ────────────────────────────────────────────────────────
 const PAYPAL_CONFIG = {
-  CLIENT_ID: BAAhniyKVcnXkk_jqFLbOE0ag4rjYi1CGllwbcQ1D8S1YBSFF4A1wcryN2yxYdOeDm2DFVuaDzEXqkQaMc,
-  PLATFORM_MERCHANT_ID: 8AB5BGXY3ZCDQ,
+  CLIENT_ID: "BAAhniyKVcnXkk_jqFLbOE0ag4rjYi1CGllwbcQ1D8S1YBSFF4A1wcryN2yxYdOeDm2DFVuaDzEXqkQaMc",
+  PLATFORM_MERCHANT_ID: "8AB5BGXY3ZCDQ",
   PLATFORM_FEE_PERCENT: 8,
   CURRENCY: "USD",
-  ENVIRONMENT: production,
+  ENVIRONMENT: "production",
 };
 
 // ─── TRANSLATIONS ─────────────────────────────────────────────────────────
